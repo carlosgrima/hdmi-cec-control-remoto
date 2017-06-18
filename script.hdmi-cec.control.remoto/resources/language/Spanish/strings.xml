@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="30001">Acerca de este add-on</string>
+    <string id="30002">Este add-on ha sido desarrollado para facilitar la instalacion y configuracion de HDMI-CEC para poder utilizar el mando a distancia.</string>  
+    <string id="30003">HDMI-CEC Control Remoto</string>
+	<string id="30004">HDMI-CEC, es un protocolo que permite que un dispositivo conectado por HDMI se pueda manejar desde el mando a distancia de la Television.</string>
+	<string id="30005">No por tener HDMI implica que tengan implementado HDMI-CEC, aunque todos los modelos actuales lo suelen implementar</string>
+	<string id="30006">En los modelos mas antiguos era un extra.</string>
+	<string id="30007">Continua por los menus para comprobar la configuracion.</string>
+
+
+</strings>

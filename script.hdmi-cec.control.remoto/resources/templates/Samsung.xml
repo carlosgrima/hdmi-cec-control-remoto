@@ -1,0 +1,19 @@
+<keymap>
+  <global>
+    <remote>
+      <play>PlayPause</play>
+      <pause>Pause</pause>
+      <select>Select</select>
+      <menu>PreviousMenu</menu>
+      <livetv>ContextMenu</livetv>
+      <start>PreviousMenu</start>
+      <blue>ActivateWindow(SystemSettings)</blue>
+    </remote>
+  </global>
+  <Home>
+    <remote>
+      <guide>ActivateWindow(SystemInfo)</guide>
+      <hash>ActivateWindow(Settings)</hash>
+    </remote>
+  </Home>
+</keymap>

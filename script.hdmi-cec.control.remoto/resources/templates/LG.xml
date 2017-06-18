@@ -1,0 +1,28 @@
+<keymap>
+        <global>
+                <remote>
+                        <skipminus>XBMC.Action(reloadkeymaps)</skipminus>
+                        <stop>XBMC.ActivateWindow(Home)</stop>
+                        <blue>ContextMenu</blue>
+                </remote>
+        </global>
+        <home>
+                <remote>
+                        <red>XBMC.ActivateWindow(VideoLibrary,TvShowTitles)</red>
+                        <green>XBMC.ActivateWindow(VideoLibrary,MovieTitles)</green>
+                        <yellow>XBMC.ActivateWindow(MyMusic)</yellow>
+                </remote>
+        </home>
+        <FullScreenVideo>
+                <remote>
+                        <play>Play</play>
+                        <pause>Pause</pause>
+                        <stop>stop</stop>
+                        <skipplus>FastForward</skipplus>
+                        <skipminus>Rewind</skipminus>
+                        <blue>Info</blue>
+                        <yellow>NextSubtitle</yellow>
+                        <green>subtitledelay</green>
+                </remote>
+        </FullScreenVideo>
+</keymap>
