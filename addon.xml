@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.hdmi-cec.control.remoto"
+       name="hdmi-cec control remoto"
+       version="1.0.0"
+       provider-name="Carlos Grima">
+    <requires>
+        <import addon="xbmc.python" version="2.19.0"/>
+	    <import addon="script.module.pyxbmct" version="1.1.4"/>
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">HDMI-CEC Control Remoto para facilitar la configuracion</summary>
+        <description lang="en">Este addon ha sido desarrollado como TFG de la UNIR. Sirve para facilitar la configuracion del protocolo HDMI-CEC y permitir usar el mando a distancia por todos los usuarios.</description>
+        <platform>all</platform>
+        <language/>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+        <source>https://github.com/carlosgrima/hdmi-cec-control-remoto</source>
+    </extension>
+</addon>
